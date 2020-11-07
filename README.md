@@ -1,1 +1,1 @@
-# debian
+# Setup environment for Debian distribution
